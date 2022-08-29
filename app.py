@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 # create webdriver object
 driver = webdriver.Firefox()
 
-# get geeksforgeeks.org
+# get url
 driver.get("https://www.youtube.com/")
 
 # get element
